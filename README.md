@@ -1,2 +1,3 @@
 # hello-world
 This repository is for practicing the GitHub Flow
+Today I am going to share some more information about myself. This past June I graduated from the University of California, Davis with a B.S. in Statistical Data Science. My undergraduate courses provided me with a robust set of skills that helped develop my areas of expertise in machine learning models, statistical analysis, and how to expand on methodologies properly. I am pursuing my Masters so that I have better opportunities in my future for jobs, internships, and volunteer work. I am also from California and have lived there my entire life!
